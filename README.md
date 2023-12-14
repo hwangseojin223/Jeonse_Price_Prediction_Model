@@ -1,1 +1,1 @@
-# Jeonse_Price_Prediction_Model
+# 전세 가격 예측 모델
